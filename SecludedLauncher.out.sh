@@ -1,0 +1,1 @@
+chmod 777 engine-x64.out && chmod 777 updater-x64.out && chmod 777 SecludedLauncher.out && LD_LIBRARY_PATH=. ./SecludedLauncher.out

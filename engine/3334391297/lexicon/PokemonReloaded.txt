@@ -1,0 +1,512 @@
+[群聊消息]主动进群
+$艾特 %QQ% %昵称%$ 
+\n
+进群有问题，可以看本群公告，再看群精华消息，有许多图文攻略，方便快捷，省时省力。\n\n
+有什么不懂也可以 @我 或者回复 “攻略”，查看更多游戏攻略！
+
+
+[群聊消息]被动进群
+$艾特 %QQ% %昵称%$ 
+\n
+进群有问题，可以看本群公告，再看群精华消息，有许多图文攻略，方便快捷，省时省力。\n\n
+有什么不懂也可以 @我 或者回复 “攻略”，查看更多游戏攻略！
+
+
+
+@机器人-小咪 |攻略
+$艾特 %QQ% %昵称%$
+\n\n
+——— 🎮 攻略大全 🎮 ———\n
+\n
+        1️⃣  游戏Wiki\n
+        2️⃣  流程攻略\n
+        3️⃣  孵蛋教程\n
+        4️⃣  萌新宝可梦推荐\n
+        5️⃣  秘传学习器获取\n
+        6️⃣  道具获取\n
+        7️⃣  Z试炼路线攻略\n
+        8️⃣  快速赚钱攻略\n
+        9️⃣  刷努力值攻略\n
+        🔟  角色更改教程\n
+\n
+—————————————
+\n
+  回复  “ 数字 (如：01) ”  即可
+
+
+
+
+(@机器人-小咪 )?(01|游戏Wiki)
+$艾特 %QQ% %昵称%$
+\n\n
+🔍 官方Wiki 🔍\n
+【有什么不知道的基本都可以在Wiki查，不过要用西班牙文】\n
+https://pokemonreloaded.fandom.com/es/wiki/Wiki_PokemonReloaded
+\n\n
+🧭 神奇宝贝百科 🧭\n
+【原版的东西可以直接在这里用英文输入查】\n
+https://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5
+\n\n
+📱 宝可梦图鉴 📱\n
+【游戏目前共有1006种宝可梦】\n
+https://pokemonreloaded.fandom.com/es/wiki/Lista_de_Pok%C3%A9mon
+\n\n
+🚦 御三家位置 🚦\n
+【游戏共有33只御三家宝可梦】\n
+https://pokemonreloaded.fandom.com/es/wiki/Pok%C3%A9mon_inicial
+\n\n
+📍 独特宝可梦位置 📍\n
+【游戏共有15只定点宝可梦】\n
+https://pokemonreloaded.fandom.com/es/wiki/Pok%C3%A9mon_%C3%BAnicos
+\n\n
+🦁 神兽获取方式 🦁\n
+【部分神兽还没有出】\n
+https://pokemonreloaded.fandom.com/es/wiki/Localizaci%C3%B3n_de_Pok%C3%A9mon_Legendarios_y_Singulares
+\n\n
+👾 究极异兽获取方式 👾\n
+【部分究极异兽还没有出】\n
+https://pokemonreloaded.fandom.com/es/wiki/Localizaci%C3%B3n_de_Ultraentes
+
+
+
+
+(@机器人-小咪 )?(02|流程攻略)
+$艾特 %QQ% %昵称%$
+\n\n
+📺 一周目视频流程攻略 📺\n
+https://www.bilibili.com/list/2906344?sid=4539569&spm_id_from=333.999.0.0&desc=1&oid=113672785497909&bvid=BV1nskwYXEFz
+\n\n
+🌏 官方Wiki一周目流程攻略 🌏\n
+https://pokemonreloaded.fandom.com/es/wiki/Gu%C3%ADa_de_Pok%C3%A9mon_Reloaded
+\n\n
+🏆 官方Wiki联盟之后流程攻略 🏆\n
+https://pokemonreloaded.fandom.com/es/wiki/Pok%C3%A9mon_Reloaded:_Despu%C3%A9s_de_la_Liga
+\n\n
+🏁 官方Wiki前线之后流程攻略 🏁\n
+https://pokemonreloaded.fandom.com/es/wiki/Pok%C3%A9mon_Reloaded:_Despu%C3%A9s_del_Frente
+
+
+
+(@机器人-小咪 )?(03|孵蛋教程)
+$艾特 %QQ% %昵称%$
+\n\n
+📖 简易孵蛋图文流程 📖\n
+【入门】从捕捉百变怪开始的孵蛋流程\n
+回复：简易孵蛋
+\n\n
+🥚 超详细孵蛋教程 🥚\n
+【必看】详细介绍孵蛋的机制\n
+https://b23.tv/F0oVU5o
+\n\n
+📈 孵蛋进阶 📈\n
+【拒蛋法2.0】可用来刷闪、刷梦幻\n
+https://b23.tv/qvfgyhF
+\n\n
+⏳ 孵蛋加速教程 ⏳\n
+【必看】加快孵蛋速度\n
+回复：孵蛋加速
+
+
+
+
+
+(@机器人-小咪 )?简易孵蛋
+$艾特 %QQ% %昵称%$
+\n\n
+📖 简易孵蛋图文流程 📖\n\n
+1️⃣ 捕捉两个百变怪\n
+【2号道路(北) 1%概率】\n
+【后面地图有5%，15%概率】\n
+$图片 %引擎目录%PokemonReloaded/Egg/Simple/1.png$
+$图片 %引擎目录%PokemonReloaded/Egg/Simple/2.png$
+\n\n
+2️⃣ 进度到第2道馆，打完蛋屋敌人，解锁蛋屋\n
+$图片 %引擎目录%PokemonReloaded/Egg/Simple/3.png$
+\n\n
+3️⃣ 一边放一个，开始走路孵蛋\n
+$图片 %引擎目录%PokemonReloaded/Egg/Simple/4.png$
+\n\n
+4️⃣ 去院子拿蛋，继续走路\n
+$图片 %引擎目录%PokemonReloaded/Egg/Simple/5.png$
+\n\n
+5️⃣ 等孵化就行\n
+【本游戏没有性格，只有个体值，努力值，特性】\n
+\n
+6️⃣ 没有闪光怎么办？\n
+【游戏后面有镀闪机器，可以进行闪光与普通的切换】\n
+$图片 %引擎目录%PokemonReloaded/Egg/Simple/6.png$
+\n\n
+7️⃣ 进阶版孵蛋\n
+【孵梦幻，需要一个百变怪，一个梦幻】\n
+$图片 %引擎目录%PokemonReloaded/Egg/Simple/7.png$
+\n\n
+8️⃣ 孵出梦幻后，操作如上\n
+【梦幻与百变怪孵蛋，有10%出现梦幻】\n
+$图片 %引擎目录%PokemonReloaded/Egg/Simple/8.png$
+\n\n
+9️⃣ 快速获得闪光宝可梦\n
+【游戏特性，连续捕捉同一个宝可梦，25次捕获之后，必定闪光宝可梦】\n
+$图片 %引擎目录%PokemonReloaded/Egg/Simple/9.png$
+
+
+
+
+
+(@机器人-小咪 )?孵蛋加速
+$艾特 %QQ% %昵称%$
+\n\n
+⏳ 孵蛋加速教程 ⏳\n\n
+1️⃣ 做好孵蛋准备\n
+$图片 %引擎目录%PokemonReloaded/Egg/SpeedUp/1.png$
+\n\n
+2️⃣ 我们先关闭游戏声音\n
+【加速快声音太卡了】\n
+$图片 %引擎目录%PokemonReloaded/Egg/SpeedUp/2.png$
+\n\n
+3️⃣ 打开加速软件，选择左上角小电脑\n
+【加速软件在群文件——推荐软件——Cheat Engine 7.5】\n
+$图片 %引擎目录%PokemonReloaded/Egg/SpeedUp/3.png$
+\n\n
+4️⃣ 选择我们的游戏\n
+$图片 %引擎目录%PokemonReloaded/Egg/SpeedUp/4.png$
+\n\n
+5️⃣ 决定自己需要的速度\n
+$图片 %引擎目录%PokemonReloaded/Egg/SpeedUp/5.png$
+
+
+
+
+
+
+
+(@机器人-小咪 )?(04|萌新宝可梦推荐)
+$艾特 %QQ% %昵称%$
+\n\n
+🏆 联盟宝可梦推荐 🏆\n
+回复：联盟宝可梦\n\n
+🛠 工具宝可梦推荐 🛠\n
+回复：工具宝可梦\n\n
+✋ 强化接棒宝可梦推荐 ✋\n
+回复：强化接棒宝可梦\n\n
+🧬 Mega宝可梦推荐 🧬\n
+回复：Mega宝可梦\n\n
+✨ 强力宝可梦推荐 ✨\n
+回复：强力宝可梦\n\n
+😆 无赖宝可梦推荐 😆\n
+回复：无赖宝可梦
+
+
+
+
+(@机器人-小咪 )?联盟宝可梦
+$艾特 %QQ% %昵称%$
+\n\n
+🏆 联盟宝可梦推荐 🏆\n\n
+1️⃣ 铁面忍者（强化工具人，小偷手）\n
+【特性：加速】\n
+【道具：剩饭】\n
+（打星之联盟第二个天王和关都冠军，可以先不带，后面偷卡比兽身上的剩饭）\n
+【技能：小偷、变硬、接棒、剑舞】\n
+（开局只要剑舞拉满，速度加3就行，想贪心，可以继续加速度）\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/291.png$
+\n\n
+2️⃣ 巨沼怪（开局直接Mega，乱杀联盟）\n
+【特性：湿气/激流】\n
+【道具：巨沼怪Mega石】\n
+【技能：潜水、挖洞、冰冻拳、健美/守住】\n
+（接棒后杀神，潜水打飞行，挖洞打地上走的，冰冻拳打龙，拳拳到肉）\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/100260.png$
+\n\n
+3️⃣ 天蝎王（保险用）\n
+【特性：毒疗】\n
+【道具：剩饭】\n
+【技能：挖洞、沙暴、剧毒、替身】\n
+（给自己上毒，再剩饭，2倍回血，给对面上毒，替身随便跑，开天气舒舒服服躺着玩）\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/472.png$
+
+
+
+
+
+(@机器人-小咪 )?工具宝可梦
+$艾特 %QQ% %昵称%$
+\n\n
+🛠 工具宝可梦推荐 🛠\n
+【 抓宠 + 小偷 】\n\n
+1️⃣ 铁面忍者\n
+【特性：加速】\n
+【技能：点到为止、小偷、剑舞、接棒】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/291.png$
+\n\n
+2️⃣ 派拉斯特\n
+【特性：湿气】\n
+【技能：点到为止、蘑菇孢子、小偷、芳香治疗】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/47.png$
+\n\n
+3️⃣ 图图犬\n
+【特性：技术高手】\n
+【道具：甜甜蜜（用戏法换给对面×2捕获率）】\n
+【技能：点到为止、电磁波、浸水、芳香治疗/戏法】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/235.png$
+\n\n
+4️⃣ 梦幻\n
+【特性：同步】\n
+【道具：甜甜蜜（用戏法换给对面×2捕获率）】\n
+【技能：点到为止、电磁波、浸水、戏法】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/151.png$
+
+
+
+
+(@机器人-小咪 )?强化接棒宝可梦
+$艾特 %QQ% %昵称%$
+\n\n
+✋ 强化接棒宝可梦推荐 ✋\n\n
+1️⃣ 铁面忍者\n
+【特性：加速】\n
+【技能：点到为止、小偷、剑舞、接棒】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/291.png$
+\n\n
+2️⃣ 梦幻\n
+【特性：同步】\n
+【技能：胜利之舞/腹鼓、蝶舞/萤火、接棒、芳香治疗】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/151.png$
+
+
+
+
+(@机器人-小咪 )?(Mega宝可梦|mega宝可梦)
+$艾特 %QQ% %昵称%$
+\n\n
+🧬 Mega宝可梦推荐 🧬\n\n
+1️⃣ 巨沼怪\n
+【特性：激流/湿气】\n
+【技能：潜水、挖洞、冰冻拳、健美】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/100260.png$
+\n\n
+2️⃣ 路卡利欧\n
+【特性：精神力】\n
+【技能(物攻)：吸取拳、子弹拳、治愈波动、剑舞】\n
+【技能(特攻)：波导弹、加农光炮、治愈波动、诡计】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/100448.png$
+\n\n
+3️⃣ 巨钳螳螂\n
+【特性：技术高手】\n
+【技能：子弹拳、虫咬、小偷、剑舞】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/100212.png$
+\n\n
+4️⃣ 沙奈朵\n
+【特性：同步】\n
+【技能：波导弹、吸取之吻、辅助力量、冥想】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/100282.png$
+\n\n
+5️⃣ 艾路雷朵\n
+【特性：锋锐】\n
+【技能：精神利刃、叶刃、圣剑、剑舞】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/100475.png$
+
+
+
+(@机器人-小咪 )?强力宝可梦
+$艾特 %QQ% %昵称%$
+\n\n
+✨ 强力宝可梦推荐 ✨\n
+【道具都带剩饭】\n\n
+1️⃣ 苍炎刃鬼\n
+【特性：引火】\n
+【技能：悔念剑、暗影爪/潜灵奇袭、蓄能焰袭、剑舞】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/2315.png$
+\n\n
+2️⃣ 多龙巴鲁托\n
+【特性：恒净之躯/穿透】\n
+【技能：逆鳞、潜灵奇袭、替身、龙之舞】\n
+（替身下逆鳞不会混乱）\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/2157.png$
+\n\n
+3️⃣ 快龙\n
+【特性：多重鳞片】\n
+【技能：逆鳞、飞翔、替身、龙之舞】\n
+（替身下逆鳞不会混乱）\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/149.png$
+\n\n
+4️⃣ 烈咬陆鲨\n
+【特性：粗糙皮肤】\n
+【技能：逆鳞、挖洞、替身、龙之舞】\n
+（替身下逆鳞不会混乱）\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/445.png$
+\n\n
+5️⃣ 钢铠鸦\n
+【特性：压迫感/镜甲】\n
+【技能：飞翔、钢翼、小偷、健美】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/2080.png$
+
+
+
+
+(@机器人-小咪 )?无赖宝可梦
+$艾特 %QQ% %昵称%$
+\n\n
+😆 无赖宝可梦推荐 😆\n
+【道具都带剩饭】\n\n
+1️⃣ 天蝎王\n
+【特性：毒疗】\n
+【技能：挖洞、沙暴、剧毒、替身】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/472.png$
+\n\n
+2️⃣ 斗笠菇\n
+【特性：毒疗】\n
+【技能：蘑菇孢子、种子炸弹、吸取拳、剑舞】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/286.png$
+\n\n
+3️⃣ 鲶鱼王\n
+【特性：湿润之躯】\n
+【技能：水炮、暴风雪、睡觉、求雨】\n
+$图片 %引擎目录%PokemonReloaded/PokemonRecommend/340.png$
+
+
+
+
+
+(@机器人-小咪 )?(05|秘传学习器获取)
+$艾特 %QQ% %昵称%$
+\n\n
+💿 秘传学习器 💿\n\n
+【所有技能在数字键8使用】\n
+【遇到要使用的时候对准目标按Z，会自动使用】\n
+【1-7号秘传技能可以使用数字键快速使用】\n
+$图片 %引擎目录%PokemonReloaded/Move/1.png$
+\n\n
+【后期直接选择梦幻，全部技能都能使用】\n
+$图片 %引擎目录%PokemonReloaded/Move/2.png$
+
+
+
+
+
+(@机器人-小咪 )?(06|道具获取)
+$艾特 %QQ% %昵称%$
+\n\n
+🎁 道具获取大全 🎁\n
+【附18种伊布进化道具&特性】\n
+https://b23.tv/oJCSHyK
+\n\n
+📖 偷道具图文攻略 📖\n
+【手把手教你如何偷稀有道具】\n
+回复：偷道具
+
+
+
+
+
+(@机器人-小咪 )?偷道具
+$艾特 %QQ% %昵称%$
+\n\n
+📖 偷道具图文攻略 📖\n\n
+1️⃣ 携带一个学会甜甜香气的宝可梦\n
+【携带甜甜蜜，加群怪出现概率】\n
+【首位放 复眼/采蜜 特性宝可梦，加野怪道具携带率】\n
+【推荐：三蜜蜂】\n
+$图片 %引擎目录%PokemonReloaded/Item/1.png$
+\n\n
+2️⃣ 前往有携带道具宝可梦的地方，使用甜甜香气\n
+$图片 %引擎目录%PokemonReloaded/Item/2.png$
+\n\n
+3️⃣ 遇到群怪，我们开始偷道具\n
+$图片 %引擎目录%PokemonReloaded/Item/3.png$
+\n\n
+4️⃣ 如果偷完，还是没有，留一个宝可梦让他叫人\n
+【这个非常耗费时间，但是方便获取概率低的道具】\n
+$图片 %引擎目录%PokemonReloaded/Item/4.png$
+
+
+
+
+
+(@机器人-小咪 )?(07|Z试炼路线攻略)
+$艾特 %QQ% %昵称%$ 
+\n\n
+📖 Z试炼图文攻略 📖\n
+https://b23.tv/RLt1YYn
+\n\n
+📺 Z试炼视频攻略 📺\n
+https://b23.tv/nM1XHIY
+
+
+
+
+
+
+(@机器人-小咪 )?(08|快速赚钱攻略)
+$艾特 %QQ% %昵称%$ 
+\n\n
+💰 快速赚钱攻略 💰\n\n
+【偷珍珠】\n
+1️⃣ 解锁冲浪，潜水技能\n\n
+2️⃣ 前往岩石系道馆\n
+$图片 %引擎目录%PokemonReloaded/Money/1.png$
+$图片 %引擎目录%PokemonReloaded/Money/2.png$
+\n\n
+3️⃣ 使用碎岩\n
+$图片 %引擎目录%PokemonReloaded/Money/3.png$
+\n\n
+4️⃣ 使用冲浪\n
+$图片 %引擎目录%PokemonReloaded/Money/4.png$
+\n\n
+5️⃣ 使用潜水\n
+$图片 %引擎目录%PokemonReloaded/Money/5.png$
+\n\n
+6️⃣ 草丛遇怪\n
+$图片 %引擎目录%PokemonReloaded/Money/6.png$
+\n\n
+7️⃣ 查看野怪是否携带道具\n
+$图片 %引擎目录%PokemonReloaded/Money/7.png$
+\n\n
+8️⃣ 使用小偷技能，确认偷取，离开即可\n
+$图片 %引擎目录%PokemonReloaded/Money/8.png$
+\n\n
+9️⃣ 背包按A卸下道具\n
+$图片 %引擎目录%PokemonReloaded/Money/9.png$
+
+
+
+(@机器人-小咪 )?(09|刷努力值攻略)
+$艾特 %QQ% %昵称%$ 
+\n\n
+💪 宝可梦刷努力值攻略 💪\n\n
+1️⃣ 携带经验增加的道具，给宝可梦装备上\n
+【檬柠果20%、幸运蛋50%】\n
+$图片 %引擎目录%PokemonReloaded/GetInstruction/1.png$
+\n\n
+2️⃣ 取消背包的学习装置\n
+$图片 %引擎目录%PokemonReloaded/GetInstruction/2.png$
+\n\n
+3️⃣ 选择现在最快的刷级方式\n
+【推荐水Z试炼】\n
+$图片 %引擎目录%PokemonReloaded/GetInstruction/3.png$
+\n\n
+4️⃣ 进入战斗\n
+$图片 %引擎目录%PokemonReloaded/GetInstruction/4.png$
+\n\n
+5️⃣ 点到为止\n
+$图片 %引擎目录%PokemonReloaded/GetInstruction/5.png$
+\n\n
+6️⃣ 切换需要刷努力值的宝可梦\n
+$图片 %引擎目录%PokemonReloaded/GetInstruction/6.png$
+\n\n
+7️⃣ 进行补刀\n
+$图片 %引擎目录%PokemonReloaded/GetInstruction/7.png$
+\n\n
+8️⃣ 每次升级，都可以随机提升一点\n
+【不需要管PP，PP是其他6项的平均值】\n
+$图片 %引擎目录%PokemonReloaded/GetInstruction/8.png$
+
+
+
+(@机器人-小咪 )?(10|角色更改教程)
+$艾特 %QQ% %昵称%$ 
+\n\n
+🕵 角色更改教程 🕵\n
+https://b23.tv/PDEzha6
+\n\n
+📝 角色代码大全 📝\n
+群文件 —— 游戏攻略
